@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiProductor", "ApiProductor\ApiProductor.csproj", "{F54B7953-DBC1-4241-8D32-4C42499782F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fncConsumidor", "fncConsumidor\fncConsumidor.csproj", "{5A546EA1-08BF-497E-9A0D-76016DA33FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54B7953-DBC1-4241-8D32-4C42499782F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54B7953-DBC1-4241-8D32-4C42499782F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54B7953-DBC1-4241-8D32-4C42499782F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54B7953-DBC1-4241-8D32-4C42499782F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A546EA1-08BF-497E-9A0D-76016DA33FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A546EA1-08BF-497E-9A0D-76016DA33FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A546EA1-08BF-497E-9A0D-76016DA33FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A546EA1-08BF-497E-9A0D-76016DA33FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {931DBFE7-5C18-4619-98D6-5171FE23936E}
+	EndGlobalSection
+EndGlobal
